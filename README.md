@@ -4,7 +4,7 @@
 
 Hey, I am Hexor.
 
-- :mobile: I am Currently Working On Python Projects
+- :computer: I am Currently Working On Python Projects
 - :fire: I Want To Create Something New And Special
 
 ## Get More Info About Me On Telegram
